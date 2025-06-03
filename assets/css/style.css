@@ -1,0 +1,36 @@
+/* Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    background: pink;
+    font-family: 'Funnel Sans', sans-serif;
+}
+
+h1, h2{
+    font-family: 'Faulty Glyphic', serif;
+    margin: 1.3rem;
+}
+
+a.nav{
+    display: inline;
+    color: #3C6E71;
+    font-size: larger;
+    text-decoration: none;
+}
+
+a.nav:hover{
+    color: #869F8A;
+    font-weight: bold;
+    font-size:130%;
+}
+
+a.active{
+    text-decoration: underline 3px;
+}
+
+a.active:hover{
+    color: #3C6E71;
+    font-size: larger;
+    font-weight: normal;
+}
