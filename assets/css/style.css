@@ -15,11 +15,11 @@
 }
 
 body{
-    background: lightgoldenrodyellow;
+    background: var(--background-color);
     font-family: 'Funnel Sans', sans-serif;
 }
 
-h1, h2{
+h1, h2, h3{
     font-family: 'Faulty Glyphic', serif;
     margin: 1.3rem;
 }
